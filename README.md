@@ -1,2 +1,1 @@
-# PrepInsta---Coding-Questions
-| C++ |
+# PrepInsta---Coding-Question
